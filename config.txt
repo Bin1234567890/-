@@ -10,8 +10,8 @@
 "user": ["ogFog5vv1Tmq4eKPIp4PtBWWI7BI"],
 
 # 信息配置
-# 和风天气apikey
-"weather_key": "1120d170e4cd41d2b6efcb20e892e1e3",
+# 天行数据apikey
+"tian_api": "f5dcac85408656d09fab3b24025d747a",
 
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "南通市",
